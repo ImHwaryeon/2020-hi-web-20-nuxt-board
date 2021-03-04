@@ -1,4 +1,4 @@
-# 20.nuxt-board
+# 21.nuxt-board
 
 ## Build Setup
 
